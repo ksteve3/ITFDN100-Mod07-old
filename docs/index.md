@@ -32,6 +32,6 @@ print("Built-In Python error info: ")
 #### Listing 13
 
 ![Github pages test image](https://github.com/ksteve3/ITFnd100-Mod07/blob/master/docs/Snips/test%20github%20image.PNG "Github pages test image")
-#### Figure 13. The results of Listing 13
+#### Figure 13/ Github Test page. The Github Test page image.
 
 
