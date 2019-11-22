@@ -1,5 +1,4 @@
 # Exception Handling & Pickling 
-## Assignment07:
  #### Mod07
 
  Date: 11.21.19
@@ -12,7 +11,8 @@
  
  Assignment07
 
-#### (Overview)
+#### Assignment07:
+ (Overview)
 
  Research and document your knowledge about the use and benefits of the 
  Pickle module and exception handling in Python. The full assignment and further notes following 
