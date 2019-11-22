@@ -58,3 +58,9 @@ print("Built-In Python error info: ")
  print(e, e.__doc__, type(e), sep='\n')
 ```
 #### Listing 13
+[basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax "basic writing and formatting syntax") ,(external link)
+
+[Module07 Course Video Links](https://www.youtube.com/watch?v=4IkIdXJBC6o&feature=youtu.be "PythonMod7Project"), (external link)
+
+[Try and Except Error handling Python Tutorial](:// "Try and Except Error handling Python Tutorial"), (external link)
+
