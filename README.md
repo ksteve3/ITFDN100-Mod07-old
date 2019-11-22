@@ -1,9 +1,15 @@
 # ITFdn100-Mod07
- Files for Module 7
+ #### Files for Module 7
 
-###### Date: 11.21.19
-###### Descprition: File & Assignemnet documents for Module07
-###### Kstevens
+ Date: 11.21.19
+ 
+ Descprition: File & Assignemnet documents for Module07
+ 
+ Dev: Kstevens
+ 
+ ITFDN100 A
+ 
+ Assignment07
  
 ## Reference Docs for Module07
  
