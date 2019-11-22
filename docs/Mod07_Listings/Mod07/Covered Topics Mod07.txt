@@ -1,0 +1,10 @@
+Topics Covered Mod07
+
+• Benefits of putting built-in Python command into functions
+• Benefits of using structured error handling
+• Differences between a text file and a binary file
+• How Exception class is used
+• How to "derive" a new class from the Exception class
+• Creating a class derived from Exception classes
+• Markdown languages
+• Using Markdown on a GitHub webpages
