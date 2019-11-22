@@ -62,5 +62,5 @@ print("Built-In Python error info: ")
 
 [Module07 Course Video Links](https://www.youtube.com/watch?v=4IkIdXJBC6o&feature=youtu.be "PythonMod7Project"), (external link)
 
-[Try and Except Error handling Python Tutorial](:// "Try and Except Error handling Python Tutorial"), (external link)
+[Try and Except Error handling Python Tutorial](https://www.youtube.com/watch?v=nqGhjLUhyDc "Try and Except Error handling Python Tutorial"), (external link)
 
