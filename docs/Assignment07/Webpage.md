@@ -1,5 +1,4 @@
 # Exception Handling & Pickling 
- #### Mod07
 
  Date: 11.21.19
  
@@ -11,7 +10,7 @@
  
  Assignment07
 
-#### Assignment07:
+## Assignment07:
  (Overview)
 
  Research and document your knowledge about the use and benefits of the 
