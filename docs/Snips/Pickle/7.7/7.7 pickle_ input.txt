@@ -1,0 +1,27 @@
+# ------------------------------------------------------------------------ #
+# Title: Assignment 07
+# Description: Research Exception Handling & Pickling in Python
+# ChangeLog (Who,When,What):
+# Kstevens,11-20-19,Modified code to complete assignment 7
+# ------------------------------------------------------------------------ #
+#Source: Saving a machine learning Model, https://www.geeksforgeeks.org/saving-a-machine-learning-model/
+#Research topic: Pickle Module
+#Code Version 7.7
+#Description: Pickled model as a file using joblib: Joblib is the replacement of pickle as it is more efficent on #objects that carry large numpy arrays. These functions also accept file-like object instead of filenames.
+
+
+joblib.dump to serialize an object hierarchy
+joblib.load to deserialize a data stream
+
+#Save to pickled file using joblib –
+
+from sklearn.externals import joblib 
+
+# Save the model as a pickle in a file 
+joblib.dump(knn, 'filename.pkl') 
+
+# Load the model from the file 
+knn_from_joblib = joblib.load('filename.pkl') 
+
+# Use the loaded model to make predictions 
+knn_from_joblib.predict(X_test) 

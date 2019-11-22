@@ -1,0 +1,23 @@
+# ------------------------------------------------------------------------ #
+# Title: Assignment 07
+# Description: Research Exception Handling & Pickling in Python
+# ChangeLog (Who,When,What):
+# Kstevens,11-20-19,Modified code to complete assignment 7
+# ------------------------------------------------------------------------ #
+#Source: Saving a machine learning Model, https://www.geeksforgeeks.org/saving-a-machine-learning-model/
+#Research topic: Pickle Module
+#Code Version 7.6
+#Description: Save model to string using pickle 
+
+
+import pickle 
+
+# Save the trained model as a pickle string. 
+saved_model = pickle.dumps(knn) 
+
+# Load the pickled model 
+knn_from_pickle = pickle.loads(saved_model) 
+
+# Use the loaded pickled model to make predictions 
+knn_from_pickle.predict(X_test) 
+

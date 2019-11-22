@@ -1,0 +1,14 @@
+# ------------------------------------------------------------------------ #
+# Title: Assignment 07
+# Description: Research Exception Handling & Pickling in Python
+# ChangeLog (Who,When,What):
+# Kstevens,11-20-19,Modified code to complete assignment 7
+# ------------------------------------------------------------------------ #
+#Source: Saving Classifiers with NLTK, https://pythonprogramming.net/pickle-classifier-save-nltk-tutorial/
+#Research topic: Pickle Module
+#Code Version 8.0
+#Description: Training classifiers and machine learning algorithms can take a very long time, especially if you're #training against a larger data set.
+
+save_classifier = open("naivebayes.pickle","wb")
+pickle.dump(classifier, save_classifier)
+save_classifier.close()

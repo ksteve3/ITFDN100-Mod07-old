@@ -1,0 +1,38 @@
+# ------------------------------------------------------------------------ #
+# Title: Assignment 07
+# Description: Research Exception Handling & Pickling in Python
+# ChangeLog (Who,When,What):
+# Kstevens,11-20-19,Modified code to complete assignment 7
+# ------------------------------------------------------------------------ #
+#Source: Saving a machine learning Model, https://www.geeksforgeeks.org/saving-a-machine-learning-model/
+#Research topic: Pickle Module
+#Code Version 7.8
+#Description: Pickle string: The pickle module implements a fundamental, but powerful algorithm for serializing and de-serializing a Python object structure.
+
+
+#Pickle model provides the following functions –
+
+pickle.dump to serialize an object hierarchy, you simply use dump().
+pickle.load to deserialize a data stream, you call the loads() function.
+
+#Example: Let’s apply K Nearest Neighbor on iris dataset and then save the model.
+
+import numpy as np 
+
+# Load dataset 
+from sklearn.datasets import load_iris 
+iris = load_iris() 
+
+X = iris.data 
+y = iris.target 
+
+# Split dataset into train and test 
+X_train, X_test, y_train, y_test = \ 
+	train_test_split(X, y, test_size = 0.3, random_state = 2018) 
+
+# import KNeighborsClassifier model 
+from sklearn.neighbors import KNeighborsClassifier as KNN 
+knn = KNN(n_neighbors = 3) 
+
+# train model 
+knn.fit(X_train, y_train) 
