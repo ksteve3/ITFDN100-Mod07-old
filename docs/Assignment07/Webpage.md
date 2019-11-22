@@ -1,11 +1,17 @@
-# Assignment07:
-	Dev: KStevens
-	
-	Date: 11.20.2019
-	
-	https://www.youtube.com/watch?v=4IkIdXJBC6o&feature=youtu.be, 1:23:24
+# Exception Handling & Pickling 
+## Assignment07:
+ #### Mod07
 
-## Exception Handling & Pickling
+ Date: 11.21.19
+ 
+ Descprition: File & Assignemnet documents for Module07
+ 
+ Dev: Kstevens
+ 
+ ITFDN100 A
+ 
+ Assignment07
+
 #### (Overview)
 
  Research and document your knowledge about the use and benefits of the 
