@@ -2,7 +2,7 @@
 #### Assignment07: Research and document your knowledge about the use and benefits of the 
 Pickle module and exception handling in Python. The full assignment and further notes following 
 this week’s discussions can be viewed or downloaded here: Assigment07.pdf (external link),
- _Mod7PythonProgrammingNotes.pdf (external link).
+  [_Mod7PythonProgrammingNotes.pdf](https://ksteve3.github.io/ITFnd100-Mod07/Snips/test%20github%20image.PNG "_Mod7PythonProgrammingNotes.pdf")(external link).
 
 **Dev:** *KStevens*
 **Date:** *11.20.2019*
