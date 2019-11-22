@@ -1,4 +1,4 @@
-## Title
+## Exception Handling & Pickling
 #### Assignment07: Research and document your knowledge about the use and benefits of the 
 Pickle module and exception handling in Python. The full assignment and further notes following 
 this week’s discussions can be viewed or downloaded here: Assigment07.pdf (external link),
