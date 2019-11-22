@@ -12,7 +12,7 @@
 - Module07 Course Video  | https://youtu.be/4IkIdXJBC6o
 
 
-## Topics Covered in ITFND100 Mod07
+## Topics Covered in ITFDN100 Mod07
 
 - Benefits of putting built-in Python command into functions
 - Benefits of using structured error handling
