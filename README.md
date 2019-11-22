@@ -1,7 +1,7 @@
 # ITFnd100-Mod07
 
-###### Date:11.21.19
-###### Descprition:File & Assignemnet documents for Module07
+###### Date: 11.21.19
+###### Descprition: File & Assignemnet documents for Module07
  
 ## Reference Docs for Module07
  
