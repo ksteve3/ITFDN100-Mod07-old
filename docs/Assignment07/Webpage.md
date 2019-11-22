@@ -64,3 +64,25 @@ print("Built-In Python error info: ")
 
 [Try and Except Error handling Python Tutorial](https://www.youtube.com/watch?v=nqGhjLUhyDc "Try and Except Error handling Python Tutorial"), (external link)
 
+[basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax "basic writing and formatting syntax"), (external link)
+
+[_Mod7PythonProgrammingNotes.pdf](https://canvas.uw.edu/courses/1342958/files/59801217?module_item_id=9973246 "_Mod7PythonProgrammingNotes.pdf"), (external link)
+
+[Module07 Course Video Links](https://www.youtube.com/watch?v=4IkIdXJBC6o&feature=youtu.be "PythonMod7Project"), (external link)
+
+[basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax "basic writing and formatting syntax"), (external link)
+
+[Other Error Handling Sources](https://docs.google.com/spreadsheets/d/e/2PACX-1vRnad3aZB7_j9aKOajRgzOf3bGkSlcJ_NSVobVJnApOc_f7yzTMFPAHcjIhD6IxhiaIhZpEK6UEiXn1WBTG3sg/pub?output=xlsx "Other Error Handling Sources"), (external link)
+
+[Python Tutorial: Using Try/Except Blocks for Error Handling](https://www.youtube.com/watch?v=NIWwJbo-9_8 "Python Tutorial: Using Try/Except Blocks for Error Handling"), (external link)
+
+[GitHub](https://github.com/CoreyMSchafer/code_snippets/tree/master/Exceptions "GitHub"), (external link)
+
+[Other Pickle Sources](https://docs.google.com/spreadsheets/d/e/2PACX-1vTFel2-8hzvknNPtJF_e_WGJuCEDRUhxEj-0LKL5En0fUX8QQTvouHaENlUEVZDDAnRQ427D_W6cxDJUEIVZFU/pubhtml "Other Pickle Sources"), (external link)
+
+[YouTube](https://www.youtube.com/watch?v=nqGhjLUhyDc "Python 3 Programming Tutorial - Try and Except error Handling"), (external link)
+
+[Try and Except Error handling Python Tutorial](https://www.youtube.com/watch?v=nqGhjLUhyDc "Try and Except Error handling Python Tutorial"), (external link)
+
+[Common Errors Python Tutorial](https://pythonprogramming.net/common-errors-python-3-basics/ "Common Errors Python Tutorial"), (external link)
+
