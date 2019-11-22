@@ -44,14 +44,6 @@ I located many sources of reference based off notes and key phrases mentioned in
 , listing 11-15, ( full list of the compiled resourced can be found here [Other Error Handling Sources](https://docs.google.com/spreadsheets/d/e/2PACX-1vRnad3aZB7_j9aKOajRgzOf3bGkSlcJ_NSVobVJnApOc_f7yzTMFPAHcjIhD6IxhiaIhZpEK6UEiXn1WBTG3sg/pub?output=xlsx "Other Error Handling Sources"), (external link).  The source I found most useful (other than the [Module07 Course Video Links](https://www.youtube.com/watch?v=4IkIdXJBC6o&feature=youtu.be "PythonMod7Project"), (external link) came from YouTube Tutorial, [Python Tutorial: Using Try/Except Blocks for Error Handling](https://www.youtube.com/watch?v=NIWwJbo-9_8 "Python Tutorial: Using Try/Except Blocks for Error Handling"), (external link) and the [GitHub](https://github.com/CoreyMSchafer/code_snippets/tree/master/Exceptions "GitHub"), (external link) posted in the authors information. I appreciated how closely related the examples were to the material discussed in the Mod07 tutorial, as many of the outside resources I come across tend to be either more advanced/specialized modifications or workarounds with limited description.
 
 
-# Sources
-https://github.com/CoreyMSchafer/code_snippets
-https://www.youtube.com/watch?v=nqGhjLUhyDc
-https://www.youtube.com/watch?v=nqGhjLUhyDc&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M&index=31
-
-##### All/Other Error Handling Sources (compiled)
-https://docs.google.com/spreadsheets/d/e/2PACX-1vRnad3aZB7_j9aKOajRgzOf3bGkSlcJ_NSVobVJnApOc_f7yzTMFPAHcjIhD6IxhiaIhZpEK6UEiXn1WBTG3sg/pub?output=xlsx
-
 
 ## Pickling in Python
 Search the web for examples of how to use Python’s Pickling features. Make note of the URL for any pages you feel are good at explaining the subject, and why you feel that way.
@@ -63,6 +55,14 @@ The pickle module implements binary protocols for serializing and de-serializing
 
 Warning! No security on pickles
  
-#### All/Other Pickle Sources (Compiled)
+
+
+
+## Sources
+
+
+##### Python Pickle Tutorial Resource List (Compiled)
 https://docs.google.com/spreadsheets/d/e/2PACX-1vTFel2-8hzvknNPtJF_e_WGJuCEDRUhxEj-0LKL5En0fUX8QQTvouHaENlUEVZDDAnRQ427D_W6cxDJUEIVZFU/pubhtml
 
+##### Python Exception Handling Tutorial Resource List (compiled)
+https://docs.google.com/spreadsheets/d/e/2PACX-1vRnad3aZB7_j9aKOajRgzOf3bGkSlcJ_NSVobVJnApOc_f7yzTMFPAHcjIhD6IxhiaIhZpEK6UEiXn1WBTG3sg/pub?output=xlsx
