@@ -28,7 +28,7 @@ The following topics will be briefly discussed in this document containing the s
 -	Exception handling in Python 
 -	Pickling in Python 
 
-## Exception handling in Python 
+# Exception handling in Python 
 #### Search the web for examples of how to use Python’s exception handing features. Make note of the URL for any pages you feel are good at explaining the subject, and why you feel that way. 
 (Overview)
 Exception handling protocols are written/implemented by a script’s author(s) with the intention of making troubleshooting easier for users or other developers. This type of script editing helps to replace long, incomprehensible trace back error messages (for those who are not developers) with more specific and/or conducive instruction to follow if an error occurs while running a script/program.   
@@ -39,7 +39,7 @@ Error handling is also useful for developers because it provides useful insight 
 
 With this information developers can try to configure error blocks and handle them in the way that we want instead of allowing Python (and/or other programming languages) to auto generate and present a string of obscure and/or vague error messages to the end user.
 
-# Exception Features Research
+## Exception Features Research
 I located many sources of reference based off notes and key phrases mentioned in [_Mod7PythonProgrammingNotes.pdf](https://canvas.uw.edu/courses/1342958/files/59801217?module_item_id=9973246 "_Mod7PythonProgrammingNotes.pdf"), (external link)
 , listing 11-15, ( full list of the compiled resourced can be found here [Other Error Handling Sources](https://docs.google.com/spreadsheets/d/e/2PACX-1vRnad3aZB7_j9aKOajRgzOf3bGkSlcJ_NSVobVJnApOc_f7yzTMFPAHcjIhD6IxhiaIhZpEK6UEiXn1WBTG3sg/pub?output=xlsx "Other Error Handling Sources"), (external link).  The source I found most useful (other than the [Module07 Course Video Links](https://www.youtube.com/watch?v=4IkIdXJBC6o&feature=youtu.be "PythonMod7Project"), (external link) came from YouTube Tutorial, [Python Tutorial: Using Try/Except Blocks for Error Handling](https://www.youtube.com/watch?v=NIWwJbo-9_8 "Python Tutorial: Using Try/Except Blocks for Error Handling"), (external link) and the [GitHub](https://github.com/CoreyMSchafer/code_snippets/tree/master/Exceptions "GitHub"), (external link) posted in the authors information. I appreciated how closely related the examples were to the material discussed in the Mod07 tutorial, as many of the outside resources I come across tend to be either more advanced/specialized modifications or workarounds with limited description.
 
