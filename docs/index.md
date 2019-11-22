@@ -1,7 +1,10 @@
 # Title
-**Dev:** *KStevens*
-**Date:** *11.20.2019*
-**https://www.youtube.com/watch?v=4IkIdXJBC6o&feature=youtu.be, 1:23:24
+
+ Dev: KStevens
+ 
+ Date: 11.20.2019
+ 
+ https://www.youtube.com/watch?v=4IkIdXJBC6o&feature=youtu.be, 1:23:24
 
 ## Structured Error Handling (Try-Except)
 When you are programming, you fix your bugs immediately and make sure the code
