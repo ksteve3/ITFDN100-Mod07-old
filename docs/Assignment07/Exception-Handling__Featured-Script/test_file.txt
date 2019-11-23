@@ -1,3 +1,0 @@
-Test File Contents!
-2, Bob Smith
-1, Janet Robinson
