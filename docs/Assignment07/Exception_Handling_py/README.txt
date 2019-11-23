@@ -1,6 +1,6 @@
 Exception_Handling (fldr)
 	--> README.txt (File) 
-		--> Featured_Scripts (fldr)
+		--> EH_Featured_Scripts (fldr)
 
 The code snippets located in the EH_Featured_Scripts folder are featured in the in the Assignment07.docx file, ITFDN100 (Foundations of Python Programming),   as well as on the linked GitHub Webpage, titled "Exception Handling & Pickling in PY", (Assignment07). These snippets were created and tested while shadowing the instruction of online video tutorials relating to the topic of Exception Handling in Python 3.
 
