@@ -1,0 +1,39 @@
+# ------------------------------------------------------------------------ #
+# Title: Assignment 07
+# Description: Research Exception Handling & Pickling in Python
+# ChangeLog (Who,When,What):
+# Kstevens,11-20-19,Modified code to complete assignment 7
+# ------------------------------------------------------------------------ #
+#Source: pickle — Python object serialization, https://www.geeksforgeeks.org/pickle-python-object-serialization/
+#Research topic: Pickle Module
+#Code Version 8.3.4 - 2
+#Description: Exceptions provided by the pickle module examples 
+
+```
+#### Exceptions provided by the pickle module :
+
+1.	exception pickle.PickleError
+This exception inherits Exception. It is the base class for all other exceptions raised in pickling.
+2.	exception pickle.PicklingError
+This exception inherits PickleError. This exception is raised when an unpicklable object is encountered by Pickler.
+
+3.	exception pickle.UnpicklingError
+
+This exception inherits PickleError. This exception is raised when there is a problem like data corruption or a security violation while unpickling an object.
+
+#### Classes exported by the pickle module:
+
+1.	class pickle.Pickler(file, protocol = None, *, fix_imports = True)
+This class takes a binary file for writing a pickle data stream.
+
+2.	dump(obj) – This function is used to write a pickled representation of obj to the open file object given in the constructor.
+
+3.	persistent_id(obj) – If persistent_id() returns None, obj is pickled as usual. This does nothing by deafult and exists so that any subclass can override it.
+
+4.	Dispatch_table – A pickler object’s dispatch table is a mapping whose keys are classes and whose values are reduction functions.
+
+By default, a pickler object will not have a dispatch_table attribute, and it will instead use the global dispatch table managed by the copyreg module.
+
+#### Example : The below code creates an instance of pickle.Pickler with a private dispatch table which handles the SomeClass class specially. [1] 
+
+```
