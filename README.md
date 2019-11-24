@@ -47,7 +47,8 @@
 #https://github.com/CoreyMSchafer/code_snippets/tree/master/Exceptions
 #Research topic: Exception Handling
 #Code Version 7.1
-#Example description: Fixes the code errors in example 7.1 to achieve the #requested Output Requirements described in Example 7.1 in Assignment07.docx
+#Example description: Fixes the code errors in example 7.1 to achieve the 
+#requested Output Requirements described in Example 7.1 in Assignment07.docx
 #or on the my GitHub Webpage @ https://ksteve3.github.io/ITFDN100-Mod07/ 
 #under Example 7.1 Output Requirements
 
