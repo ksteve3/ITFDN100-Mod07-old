@@ -64,6 +64,8 @@ else:
     print(file.read())
     file.close()
 finally:
-    print('Closing File/Database...')  # Indicates completion of "something that needs to get done" by displaying
-    # final closeout message/ final closeout step(s) executed to user regardless if the code is successful or not.
+    print('Closing File/Database...')  
+# Indicates completion of "something that needs to get done" by displaying
+# final closeout message/ final closeout step(s) executed to user regardless
+# if the code is successful or not.
 ```
