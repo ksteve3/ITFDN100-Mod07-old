@@ -33,21 +33,6 @@
 - Creating a class derived from Exception classes
 - Markdown languages
 - Using Markdown on a GitHub webpages
-@misc{schafer_2019_python,
-  author = {Schafer, Corey},
-  title = {Python Tutorial: Using Try/Except Blocks for Error Handling},
-  url = {https://www.youtube.com/watch?v=NIWwJbo-9_8},
-  urldate = {2019-11-24},
-  year = {2019}
-}
 
-@misc{coreymschafer_2019_coreymschafercode_snippets,
-  author = {CoreyMSchafer},
-  month = {10},
-  publisher = {CoreyMSchafer},
-  title = {CoreyMSchafer/code_snippets},
-  url = {https://github.com/CoreyMSchafer/code_snippets},
-  urldate = {2019-11-24},
-  year = {2019}
-}
+
 
