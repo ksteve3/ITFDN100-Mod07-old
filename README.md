@@ -83,6 +83,5 @@ except Exception:
 # Indicates completion of "something that needs to get done" by displaying
 # final closeout message/ final closeout step(s) executed to user regardless if the code 
 # is successful or not.
-
 ```
 
